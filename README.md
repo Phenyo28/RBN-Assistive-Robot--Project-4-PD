@@ -31,6 +31,8 @@ The main goal of this project is to demonstrate how autonomy and remote control 
 | **Ultrasonic Distance Sensors (HC-SR04)**         | Obstacle detection (front-left & front-right)                                    | 2         |
 | **Caster Wheel**                                  | Stability for 2WD chassis                                                        | 1         | 
 | **T-Slot Aluminium Extrusion**                    | Chassis/frame construction                                                       | 3         |
+| LEDs (Red, Yellow, Green)	                        | Indicators for deployment, movement, obstacle detection	                         | 3	       |
+| Resistors (220Ω / 330Ω)	                          | Current limiting for LEDs                                                        | 3–5      |
 | **Misc. Hardware**                                | Screws, standoffs, zip ties, wires                                               | As needed | 
 
 ---
