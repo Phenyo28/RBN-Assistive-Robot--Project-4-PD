@@ -11,6 +11,18 @@ The main goal of this project is to demonstrate how autonomy and remote control 
 
 ---
 
+## Repository Contents
+| File / Folder                 | Description                                       |
+| ----------------------------- | ------------------------------------------------- |
+| `Picture`                     |Folder of the project building images             |
+| `BOM - PulseWave .xlsx`       | Bill of materials                                 |
+| `README.md`                   |Update README.md                                   |
+| `Schematic.png`               | Circuit schematic (image version)                 |
+| `RP-Diale-PulseWave.ino`      | Arduino source code for running the soil detector |
+|`PULSEWAVE PERFOMANCE FLOW`    | Perfomance workflow of the project                |
+
+---
+
 ## Bill Of Materials
 
 | Component Name                                    | Purpose in Project                                                               | Quantity  | 
