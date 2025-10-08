@@ -67,23 +67,34 @@ This manual provides step-by-step instructions on how to set up, operate, and ma
 
 ### Table of Contents
 1. Introduction  
-2. Safety Precautions  
-3. List of Components  
-4. Robot Overview  
-   - Chassis and Mechanical Parts  
-   - Electronic Components  
-5. Assembly Instructions  
-6. Circuit Diagram and Wiring Connections  
-7. Power Supply Setup  
-8. App Setup and Control Instructions  
-9. LED Indicators and Their Meanings  
-10. Operating the Robot  
-    - Turning the Robot On and Off  
-    - Movement Controls  
-    - Obstacle Detection  
-11. Maintenance Guidelines  
-12. Troubleshooting  
-13. Technical Specifications  
-14. Acknowledgements
+2. Package Contents
+3. Operating instructions
+4. Modes Of operations
+   - Autonomous Mode
+   - Manual Remote Mode
+   - Standby / Idle Mode
+5. Obstacle Avoidance
+   - How it works
+   - How to use
+   - Tips for Best Performance
+   - Limitations
+6. Controls
+   - Manual Control
+   - Autonomous Mode (Obstacle Avoidance)
+   - LED Indicators 
+7. Battery Management
+   - Installing the Batteries
+   - Charging the Batteries
+   - Battery Safety Tips
+   - Maximizing Battery Life
+   - Battery Replacement
+8. | **Category**                  | **Tasks**                                                                                                                                                                                         | **Notes**                                                          |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **A) Cleaning**               | • Wipe robot with a soft, dry cloth.<br>• Use a slightly damp cloth for stubborn dirt (avoid soaking).<br>• Keep ultrasonic sensors clean and dust-free.<br>• Avoid strong chemicals or solvents. | Ensures accurate sensor readings and keeps the robot looking neat. |
+| **B) Battery Care**           | • Remove Li-ion 18650 cells when the robot is unused for long periods.<br>• Inspect batteries for swelling, leaks, or damage.<br>• Store in a cool, dry place away from sunlight.                 | Prevents battery damage and improves lifespan.                     |
+| **C) Motor & Wheels**         | • Check wheels for dust, hair, or debris.<br>• Tighten chassis screws regularly.                                                                                                                  | Keeps robot moving smoothly and prevents wear.                     |
+| **D) Electrical Connections** | • Inspect jumper wires and solder joints.<br>• Do not pull wires by the cable — use connectors.<br>• If a sensor or LED fails, check wiring first.                                                | Maintains reliable electrical performance.                         |
+| **E) Software & Updates**     | • Back up ESP32/Arduino code.<br>• Update software only with verified versions.<br>• Test motors and sensors after updates.                                                                       | Prevents software-related malfunctions.                            |
+
 
 ---
