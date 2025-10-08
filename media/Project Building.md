@@ -65,7 +65,7 @@
 **RobotMotor.cpp (Implementation File)**
 <img width="1034" height="567" alt="image" src="https://github.com/user-attachments/assets/0e886db7-1719-43a6-93bc-ab351f858923" />
 
-## Testing & Troubleshooting
+## 4. Testing & Troubleshooting
 ### LED blink test 
 <img width="419" height="558" alt="image" src="https://github.com/user-attachments/assets/7cf25e94-a6df-46f1-86ee-7288c5c500a7" /> <img width="421" height="561" alt="image" src="https://github.com/user-attachments/assets/a27e4b86-800f-4acb-9080-c4a576795bd0" />
 
@@ -74,3 +74,22 @@
 
 ### DC Motor Testing
 <img width="497" height="453" alt="image" src="https://github.com/user-attachments/assets/1ea67e56-e6f8-414d-a78b-a1d6b33e064b" />
+
+### Communication between the microcontrollers
+**The ESP32 code**
+<img width="1034" height="298" alt="image" src="https://github.com/user-attachments/assets/25f8b8d5-e64c-4c36-a41c-a60c9f7b5ff1" />
+
+
+**The Arduino Nano code**
+<img width="1034" height="294" alt="image" src="https://github.com/user-attachments/assets/4cef6e07-a0fc-42a2-81b3-845098f3fcaa" />
+
+### 5. Building of the project
+<img width="522" height="697" alt="image" src="https://github.com/user-attachments/assets/aa33a36e-d13c-47a3-873b-b9f88c081cbe" /> <img width="505" height="672" alt="image" src="https://github.com/user-attachments/assets/f3382a4c-8808-4606-85aa-c766708a44d8" />
+
+<img width="503" height="667" alt="image" src="https://github.com/user-attachments/assets/9766fb68-8e74-489c-a725-30c9ccff63df" /> <img width="525" height="699" alt="image" src="https://github.com/user-attachments/assets/5beeefd3-b51a-4f59-a1d0-956b59210af7" />
+
+<img width="516" height="687" alt="image" src="https://github.com/user-attachments/assets/d727c58f-1755-4b1c-a479-83038e215a86" /> <img width="497" height="500" alt="image" src="https://github.com/user-attachments/assets/56d3618d-2584-424d-bc70-75820920b615" />
+
+<img width="1034" height="581" alt="image" src="https://github.com/user-attachments/assets/74084459-987a-4897-9d38-3572a50ce939" />
+
+
