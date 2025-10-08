@@ -92,7 +92,6 @@ The Final Design with Components
 <img width="578" height="771" alt="image" src="https://github.com/user-attachments/assets/661884fe-1b3d-405b-b18c-30d1e484254d" />
 
 
-
 ### 5. Building of the project
 <img width="522" height="697" alt="image" src="https://github.com/user-attachments/assets/aa33a36e-d13c-47a3-873b-b9f88c081cbe" /> <img width="505" height="672" alt="image" src="https://github.com/user-attachments/assets/f3382a4c-8808-4606-85aa-c766708a44d8" />
 
