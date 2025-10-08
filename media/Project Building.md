@@ -59,3 +59,13 @@
 **PhenyX The Bot (main sketch)** 
 <img width="1034" height="581" alt="image" src="https://github.com/user-attachments/assets/8ecdd8bf-a4aa-43a8-b918-97b8da4b7423" />
 
+**RobotMotor.h (Header File)**
+<img width="1034" height="514" alt="image" src="https://github.com/user-attachments/assets/9f51c535-4a6c-49ec-a5fa-af9b6aed4827" />
+
+**RobotMotor.cpp (Implementation File)**
+<img width="1034" height="567" alt="image" src="https://github.com/user-attachments/assets/0e886db7-1719-43a6-93bc-ab351f858923" />
+
+## Testing & Troubleshooting
+### LED blink test 
+<img width="419" height="558" alt="image" src="https://github.com/user-attachments/assets/7cf25e94-a6df-46f1-86ee-7288c5c500a7" /> <img width="421" height="561" alt="image" src="https://github.com/user-attachments/assets/a27e4b86-800f-4acb-9080-c4a576795bd0" />
+
