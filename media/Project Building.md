@@ -22,6 +22,9 @@
 ### T-Slot
 <img width="1920" height="974" alt="Screenshot 2025-10-08 112148" src="https://github.com/user-attachments/assets/2f7ec037-6843-4de0-b0f2-ae7a2e5dfa2a" />
 
+The Final Design with Components
+<img width="1034" height="524" alt="image" src="https://github.com/user-attachments/assets/d87aee3a-a000-422c-946e-e380b26e8008" />
+
 ## 3. Software Development
 ### First Components testing
 <img width="478" height="637" alt="image" src="https://github.com/user-attachments/assets/92eebba7-1b68-4817-85b1-a2141feb88aa" />
