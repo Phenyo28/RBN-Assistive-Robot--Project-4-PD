@@ -8,6 +8,7 @@ The main goal of this project is to demonstrate how autonomy and remote control 
 -	Avoid obstacles using 2 ultrasonic sensors.
 -	Indicate states (deployment, movement, obstacle detection) with LEDs.
 -	Controlled via app (manual + autonomous mode).
+-	User Manual
 
 ---
 
@@ -49,3 +50,4 @@ The main goal of this project is to demonstrate how autonomy and remote control 
 
 ---
 
+## User Manual
