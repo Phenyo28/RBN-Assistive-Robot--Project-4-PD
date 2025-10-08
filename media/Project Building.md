@@ -38,3 +38,24 @@
 
 ### The QR Code to my app:
 <img width="240" height="231" alt="image" src="https://github.com/user-attachments/assets/1638e765-495b-435f-b66b-39a6b2bbf57c" />
+
+### DC Motor (Simulation on TinkerCAD)
+<img width="1034" height="524" alt="image" src="https://github.com/user-attachments/assets/184f655d-8c08-452f-9d38-3704ee78ef72" />
+
+### DC Motor, Ultrasonic distance sensor and LED (Simulation on TinkerCAD)
+<img width="1034" height="523" alt="image" src="https://github.com/user-attachments/assets/675c6552-fc20-4b87-9e43-83f59cb90e7f" />
+
+### Arduino IDE for 2 motors
+<img width="1034" height="509" alt="image" src="https://github.com/user-attachments/assets/ea3e14d8-3d4b-4d85-8dc5-3cdb420f8ce0" />
+
+### The front page of the manual
+<img width="1034" height="581" alt="image" src="https://github.com/user-attachments/assets/37265616-4383-490a-8d34-1e940f71e33e" />
+
+### Insight of the User Manual
+<img width="1034" height="581" alt="image" src="https://github.com/user-attachments/assets/933ac64a-95de-4562-b7cd-2e22433db63b" />
+
+### Creating my fist library
+
+** PhenyX The Bot (main sketch) ** 
+<img width="1034" height="581" alt="image" src="https://github.com/user-attachments/assets/8ecdd8bf-a4aa-43a8-b918-97b8da4b7423" />
+
