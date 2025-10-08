@@ -56,6 +56,6 @@
 
 ### Creating my fist library
 
-** PhenyX The Bot (main sketch) ** 
+**PhenyX The Bot (main sketch)** 
 <img width="1034" height="581" alt="image" src="https://github.com/user-attachments/assets/8ecdd8bf-a4aa-43a8-b918-97b8da4b7423" />
 
