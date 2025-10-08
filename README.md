@@ -1,7 +1,7 @@
 # RBN-Assistive-Robot-Project-4-PD
 This project is about designing and building an autonomous navigation robot that integrates mechanical, electrical, and software systems into a single working prototype. The robot is equipped with ultrasonic sensors to detect and avoid obstacles, LED indicators to provide status feedback, and a mobile app for manual control when needed. It is powered by Li-ion batteries, driven by DC geared motors with encoders, and managed through an ESP32 microcontroller with a motor driver.
 
-The main goal of this project is to demonstrate how autonomy and remote control can be combined in a low-cost robotic platform. It provides a learning opportunity for students, hobbyists, and researchers interested in robotics and embedded systems, while also serving as a foundation for more advanced applications such as delivery robots, assistive devices, or surveillance systems.
+The main goal of this project is to demonstrate how autonomy and remote control can be combined in a low-cost robotic platform. It provides a learning opportunity for students, hobbyists, and researchers interested in robotics and embedded systems, while also serving as a foundation for more advanced applications such as delivery robots, assistive devices, or surveillance systems. 
 
 ## Features of the robot
 - Move forward, backward, turn.
