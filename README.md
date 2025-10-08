@@ -50,4 +50,40 @@ The main goal of this project is to demonstrate how autonomy and remote control 
 
 ---
 
-## User Manual
+##  User Manual
+
+### Introduction
+The Assistive Robot is a smart, Wi-Fi-controlled robot designed to help users with basic assistive tasks such as navigation, movement, and obstacle detection. It combines functionality, safety, and ease of use, making it suitable for educational, personal, and assistive applications.
+
+This manual provides step-by-step instructions on how to set up, operate, and maintain the robot. It also explains the meaning of LED indicators, app functions, and safety guidelines. Whether you are a beginner or an experienced user, this guide will help you use the robot confidently and effectively.
+
+**Purpose of the User Manual:**
+- To guide users through safe and correct operation of the assistive robot.  
+- To explain the robot’s main features, functions, and controls.  
+- To provide maintenance and troubleshooting support.  
+- To promote safe handling of electrical and mechanical components.  
+
+---
+
+### Table of Contents
+1. Introduction  
+2. Safety Precautions  
+3. List of Components  
+4. Robot Overview  
+   - Chassis and Mechanical Parts  
+   - Electronic Components  
+5. Assembly Instructions  
+6. Circuit Diagram and Wiring Connections  
+7. Power Supply Setup  
+8. App Setup and Control Instructions  
+9. LED Indicators and Their Meanings  
+10. Operating the Robot  
+    - Turning the Robot On and Off  
+    - Movement Controls  
+    - Obstacle Detection  
+11. Maintenance Guidelines  
+12. Troubleshooting  
+13. Technical Specifications  
+14. Acknowledgements
+
+---
