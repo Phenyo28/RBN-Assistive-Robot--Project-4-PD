@@ -88,13 +88,10 @@ This manual provides step-by-step instructions on how to set up, operate, and ma
    - Battery Safety Tips
    - Maximizing Battery Life
    - Battery Replacement
-8. | **Category**                  | **Tasks**                                                                                                                                                                                         | **Notes**                                                          |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **A) Cleaning**               | • Wipe robot with a soft, dry cloth.<br>• Use a slightly damp cloth for stubborn dirt (avoid soaking).<br>• Keep ultrasonic sensors clean and dust-free.<br>• Avoid strong chemicals or solvents. | Ensures accurate sensor readings and keeps the robot looking neat. |
-| **B) Battery Care**           | • Remove Li-ion 18650 cells when the robot is unused for long periods.<br>• Inspect batteries for swelling, leaks, or damage.<br>• Store in a cool, dry place away from sunlight.                 | Prevents battery damage and improves lifespan.                     |
-| **C) Motor & Wheels**         | • Check wheels for dust, hair, or debris.<br>• Tighten chassis screws regularly.                                                                                                                  | Keeps robot moving smoothly and prevents wear.                     |
-| **D) Electrical Connections** | • Inspect jumper wires and solder joints.<br>• Do not pull wires by the cable — use connectors.<br>• If a sensor or LED fails, check wiring first.                                                | Maintains reliable electrical performance.                         |
-| **E) Software & Updates**     | • Back up ESP32/Arduino code.<br>• Update software only with verified versions.<br>• Test motors and sensors after updates.                                                                       | Prevents software-related malfunctions.                            |
-
+8. Maintanance
+9. Troubleshooting
+10. Technical Specifications
+    
+   
 
 ---
