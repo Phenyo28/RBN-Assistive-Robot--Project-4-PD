@@ -1,4 +1,4 @@
-## Components Used
+## 1. Components Used
 
 <img width="925" height="513" alt="image" src="https://github.com/user-attachments/assets/4f5a7558-18f6-452f-ba31-6e91070afc39" />
 <img width="1033" height="531" alt="image" src="https://github.com/user-attachments/assets/01157917-a407-48fe-a180-3b69bcd08639" />
@@ -6,7 +6,7 @@
 
 --- 
 
-## Circuit/CAD Design & Assembly
+## 2. Circuit/CAD Design & Assembly
 ### 3D Deseign on Onshape
 <img width="993" height="462" alt="image" src="https://github.com/user-attachments/assets/c01b5e18-8b70-452e-b3df-9c0a50afc047" />
 
@@ -22,7 +22,7 @@
 ### T-Slot
 <img width="1920" height="974" alt="Screenshot 2025-10-08 112148" src="https://github.com/user-attachments/assets/2f7ec037-6843-4de0-b0f2-ae7a2e5dfa2a" />
 
-## Software Development
+## 3. Software Development
 ### First Components testing
 <img width="478" height="637" alt="image" src="https://github.com/user-attachments/assets/92eebba7-1b68-4817-85b1-a2141feb88aa" />
 <img width="491" height="654" alt="image" src="https://github.com/user-attachments/assets/eaa0cc91-288e-4a8a-acfa-4759393b8565" />
@@ -69,3 +69,8 @@
 ### LED blink test 
 <img width="419" height="558" alt="image" src="https://github.com/user-attachments/assets/7cf25e94-a6df-46f1-86ee-7288c5c500a7" /> <img width="421" height="561" alt="image" src="https://github.com/user-attachments/assets/a27e4b86-800f-4acb-9080-c4a576795bd0" />
 
+### Li-On Battery avoltage Check
+<img width="491" height="538" alt="image" src="https://github.com/user-attachments/assets/bce2129c-1032-4e14-8663-3f14b23d338a" />
+
+### DC Motor Testing
+<img width="497" height="453" alt="image" src="https://github.com/user-attachments/assets/1ea67e56-e6f8-414d-a78b-a1d6b33e064b" />
