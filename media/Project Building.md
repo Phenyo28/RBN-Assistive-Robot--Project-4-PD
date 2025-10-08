@@ -30,3 +30,11 @@
 ### First Components testing Code
 <img width="1034" height="527" alt="image" src="https://github.com/user-attachments/assets/9a047f7c-bc72-460f-ae0b-174a9bd6c33e" />
 
+### The App Design
+<img width="1131" height="575" alt="image" src="https://github.com/user-attachments/assets/f0988907-4f12-460d-bf26-43c800ad7d70" />
+
+### Block Codes
+<img width="1092" height="554" alt="image" src="https://github.com/user-attachments/assets/dfd86041-3249-434a-8a39-f56501b6bced" />
+
+### The QR Code to my app:
+<img width="240" height="231" alt="image" src="https://github.com/user-attachments/assets/1638e765-495b-435f-b66b-39a6b2bbf57c" />
