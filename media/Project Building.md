@@ -86,6 +86,13 @@ The Final Design with Components
 **The Arduino Nano code**
 <img width="1034" height="294" alt="image" src="https://github.com/user-attachments/assets/4cef6e07-a0fc-42a2-81b3-845098f3fcaa" />
 
+**Testing the validation code**
+<img width="580" height="773" alt="image" src="https://github.com/user-attachments/assets/67fed9f1-504f-4520-b534-609bd1dc309b" />
+
+<img width="578" height="771" alt="image" src="https://github.com/user-attachments/assets/661884fe-1b3d-405b-b18c-30d1e484254d" />
+
+
+
 ### 5. Building of the project
 <img width="522" height="697" alt="image" src="https://github.com/user-attachments/assets/aa33a36e-d13c-47a3-873b-b9f88c081cbe" /> <img width="505" height="672" alt="image" src="https://github.com/user-attachments/assets/f3382a4c-8808-4606-85aa-c766708a44d8" />
 
@@ -94,5 +101,8 @@ The Final Design with Components
 <img width="516" height="687" alt="image" src="https://github.com/user-attachments/assets/d727c58f-1755-4b1c-a479-83038e215a86" /> <img width="497" height="500" alt="image" src="https://github.com/user-attachments/assets/56d3618d-2584-424d-bc70-75820920b615" />
 
 <img width="1034" height="581" alt="image" src="https://github.com/user-attachments/assets/74084459-987a-4897-9d38-3572a50ce939" />
+<img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/c972f832-ebb7-4eb8-a154-767e0ebc07ea" />
 
 
+### Soldering
+<img width="644" height="859" alt="image" src="https://github.com/user-attachments/assets/140c6136-4a4f-4f52-84b9-74c67f884563" /> <img width="625" height="834" alt="image" src="https://github.com/user-attachments/assets/553ced8b-1f42-4b76-96c2-fd3450a474fa" />
