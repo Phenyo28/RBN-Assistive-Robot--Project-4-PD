@@ -53,7 +53,7 @@ The main goal of this project is to demonstrate how autonomy and remote control 
 ##  User Manual
 
 ### Introduction
-The Assistive Robot is a smart, Wi-Fi-controlled robot designed to help users with basic assistive tasks such as navigation, movement, and obstacle detection. It combines functionality, safety, and ease of use, making it suitable for educational, personal, and assistive applications.
+The Autonomous Navigation Robot is designed to move independently while avoiding obstacles using ultrasonic sensors. It is powered by an ESP32 microcontroller that controls motor movement, LED indicators, and app-based communication for remote control. The robot can navigate forward, detect obstacles in its path, and adjust its direction accordingly, while LEDs provide real-time status feedback on its operation.
 
 This manual provides step-by-step instructions on how to set up, operate, and maintain the robot. It also explains the meaning of LED indicators, app functions, and safety guidelines. Whether you are a beginner or an experienced user, this guide will help you use the robot confidently and effectively.
 
