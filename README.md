@@ -102,5 +102,7 @@ This manual provides step-by-step instructions on how to set up, operate, and ma
     
  <img width="1919" height="1068" alt="Screenshot 2025-10-08 104910" src="https://github.com/user-attachments/assets/d8a00e32-70f2-40ea-842e-6576da1d3aa8" />
   
+[Power On] → [Connect to Wi-Fi] → [App Connects] → [Receive Command] → [Move Robot] ↔ [Check Sensors] → [Update LEDs] → [Stop / Continue] → [Power Off]
+
 
 ---
