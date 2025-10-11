@@ -78,6 +78,15 @@ App Features
 - No extra server setup is required — the ESP32 handles incoming requests directly.
 - This approach allows for a simple and lightweight mobile interface without the need for custom mobile apps or external servers.
 
+
+## 3D Design on OnShape
+I designed a custom casing for the ESP32 robot using OnShape to provide protection for the electronics, organize the components neatly, and give the device a cleaner, more professional appearance. The enclosure makes the robot portable and easy to handle, while internal compartments and mounting points ensure that the ESP32, motor driver, sensors, and wiring stay securely in place. This design not only improves durability but also simplifies assembly and maintenance, making the robot safer and more user-friendly.
+
+<img width="1034" height="524" alt="image" src="https://github.com/user-attachments/assets/aec10e2a-5f48-4bec-aff6-57bb5f9ffcb5" />
+
+### Different Sides of the Design
+<img width="650" height="786" alt="Screenshot 2025-10-11 104340" src="https://github.com/user-attachments/assets/77a8b55e-c591-48bf-8f94-117c97655029" />
+
 ##  User Manual
 
 ### Introduction
