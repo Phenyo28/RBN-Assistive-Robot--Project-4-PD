@@ -21,11 +21,11 @@ It’s also suitable for educators, DIY makers, and anyone interested in experim
 ## Repository Contents
 | File / Folder                 | Description                                       |
 | ----------------------------- | ------------------------------------------------- |
-| `Source Code`                     |Folder of the project building images             |
-| `Media`       | Bill of materials                                 |
-| `Bill Of Materials`                   |Update README.md                                   |
-| `README.md`               | Circuit schematic (image version)                 |
-| `Robot User manual`      | Arduino source code for running the soil detector |
+| `Source Code`                     |Arduino IDE Code           |
+| `Media`       | Project Building.md                               |
+| `Bill Of Materials`                   |     Bill Of Materials                             |
+| `README.md`               | README.md                |
+| `Robot User manual`      | Robot User Manual |
 
 
 ---
