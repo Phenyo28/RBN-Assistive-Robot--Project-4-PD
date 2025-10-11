@@ -166,6 +166,7 @@ This manual provides step-by-step instructions on how to set up, operate, and ma
 <img width="867" height="580" alt="Screenshot 2025-10-11 111919" src="https://github.com/user-attachments/assets/c09cea87-9333-461a-96a2-1896c0789573" />
 
 ### DC Motor Testing
+<img width="1034" height="581" alt="image" src="https://github.com/user-attachments/assets/92533004-3a52-484d-9e83-21600f7949f6" />
 
 
 ### Validation code testing
