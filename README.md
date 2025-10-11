@@ -83,8 +83,7 @@ App Features
 ### Block Codes
 <img width="1920" height="979" alt="Screenshot 2025-10-11 081456" src="https://github.com/user-attachments/assets/fdd73fb4-3df1-4863-8a49-ac32540083c5" />
 
-
-
+---
 
 ## 3D Design on OnShape
 I designed a custom casing for the ESP32 robot using OnShape to provide protection for the electronics, organize the components neatly, and give the device a cleaner, more professional appearance. The enclosure makes the robot portable and easy to handle, while internal compartments and mounting points ensure that the ESP32, motor driver, sensors, and wiring stay securely in place. This design not only improves durability but also simplifies assembly and maintenance, making the robot safer and more user-friendly.
@@ -94,6 +93,14 @@ I designed a custom casing for the ESP32 robot using OnShape to provide protecti
 ### Different Sides of the Design
 <img width="650" height="786" alt="Screenshot 2025-10-11 104340" src="https://github.com/user-attachments/assets/77a8b55e-c591-48bf-8f94-117c97655029" />
 
+---
+
+## Testing and Troubleshooting
+
+While building this robot, I learned that testing and troubleshooting are just as important as the design itself. I started by checking all the wiring and making sure each motor and sensor was connected correctly. I tested each motor individually to make sure they spun in the right direction before trying to control them from the ESP32. Watching the Serial Monitor was a huge help for seeing if the ESP32 was connecting to Wi-Fi and if the sensors were sending the data I expected.
+
+There were a few moments where the motors didn’t move or spun the wrong way, but swapping wires or double-checking my code usually solved it. I also learned to test one thing at a time—motors first, then sensors, then the web controls—so I could figure out exactly where any problem was coming from. Overall, troubleshooting was a big learning experience, and seeing the robot finally respond correctly to my commands made all the small setbacks worth it.
+--- 
 ##  User Manual
 
 ### Introduction
