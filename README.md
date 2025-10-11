@@ -61,6 +61,23 @@ It’s also suitable for educators, DIY makers, and anyone interested in experim
 
 ## Wiring Diagram
 
+## App Development
+I used MIT App Inventor to create a simple web-based control interface for the robot. The app allows the user to control the robot’s movement over Wi-Fi using buttons corresponding to forward, backward, left, right, and stop commands.
+
+App Features
+1. Button Controls: Each button sends an HTTP request to the ESP32 web server.
+- Forward → /forward
+- Backward → /backward
+- Left → /left
+- Right → /right
+- Stop → /stop
+2. Wi-Fi Connection: The app connects to the same network as the ESP32 and uses the IP address of the ESP32 to send commands.
+3. Real-Time Control: Commands are sent instantly when the user presses a button.
+4. Implementation Notes
+- The MIT App Inventor blocks use the Web component to make HTTP GET requests to the ESP32.
+- No extra server setup is required — the ESP32 handles incoming requests directly.
+- This approach allows for a simple and lightweight mobile interface without the need for custom mobile apps or external servers.
+
 ##  User Manual
 
 ### Introduction
