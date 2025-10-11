@@ -144,6 +144,9 @@ This manual provides step-by-step instructions on how to set up, operate, and ma
 9. Troubleshooting
 10. Technical Specifications
 
+### App QR code
+<img width="192" height="185" alt="Screenshot 2025-10-03 090527" src="https://github.com/user-attachments/assets/604e9efb-01ae-496d-97ff-f9005cff8c05" />
+
 ### Overview of the User Manual
     
  <img width="1919" height="1068" alt="Screenshot 2025-10-08 104910" src="https://github.com/user-attachments/assets/d8a00e32-70f2-40ea-842e-6576da1d3aa8" />
@@ -156,6 +159,9 @@ This manual provides step-by-step instructions on how to set up, operate, and ma
 ## Working on the project
 ### Soldering
 <img width="867" height="580" alt="Screenshot 2025-10-11 111919" src="https://github.com/user-attachments/assets/c09cea87-9333-461a-96a2-1896c0789573" />
+
+### DC Motor Testing
+
 
 ### Validation code testing
 <img width="838" height="531" alt="Screenshot 2025-10-11 111906" src="https://github.com/user-attachments/assets/8a631949-e4f8-4ee4-b20a-d3f3ce1b731f" />
