@@ -99,7 +99,12 @@ I designed a custom casing for the ESP32 robot using OnShape to provide protecti
 
 While building this robot, I learned that testing and troubleshooting are just as important as the design itself. I started by checking all the wiring and making sure each motor and sensor was connected correctly. I tested each motor individually to make sure they spun in the right direction before trying to control them from the ESP32. Watching the Serial Monitor was a huge help for seeing if the ESP32 was connecting to Wi-Fi and if the sensors were sending the data I expected.
 
-There were a few moments where the motors didn’t move or spun the wrong way, but swapping wires or double-checking my code usually solved it. I also learned to test one thing at a time—motors first, then sensors, then the web controls—so I could figure out exactly where any problem was coming from. Overall, troubleshooting was a big learning experience, and seeing the robot finally respond correctly to my commands made all the small setbacks worth it.
+There were a few moments where the motors didn’t move or spun the wrong way, but swapping wires or double-checking my code usually solved it. I also learned to test one thing at a time—motors first, then sensors, then the web controls so I could figure out exactly where any problem was coming from. Overall, troubleshooting was a big learning experience, and seeing the robot finally respond correctly to my commands made all the small setbacks worth it.
+
+### The DC Motor Code
+<img width="1034" height="318" alt="image" src="https://github.com/user-attachments/assets/0edb2c25-37d2-4990-a753-0eeb8e3726ac" />
+
+<img width="697" height="444" alt="Screenshot 2025-10-11 112730" src="https://github.com/user-attachments/assets/bd679cfb-743f-4edd-8e2b-133d6d57f340" />
 
 --- 
 ##  User Manual
