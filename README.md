@@ -151,5 +151,12 @@ This manual provides step-by-step instructions on how to set up, operate, and ma
 
 [Power On] → [Connect to Wi-Fi] → [App Connects] → [Receive Command] → [Move Robot] ↔ [Check Sensors] → [Update LEDs] → [Stop / Continue] → [Power Off]
 
-
 ---
+
+## Working on the project
+### Soldering
+<img width="867" height="580" alt="Screenshot 2025-10-11 111919" src="https://github.com/user-attachments/assets/c09cea87-9333-461a-96a2-1896c0789573" />
+
+### Validation code testing
+<img width="838" height="531" alt="Screenshot 2025-10-11 111906" src="https://github.com/user-attachments/assets/8a631949-e4f8-4ee4-b20a-d3f3ce1b731f" />
+
