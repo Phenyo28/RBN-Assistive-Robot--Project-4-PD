@@ -21,12 +21,12 @@ It’s also suitable for educators, DIY makers, and anyone interested in experim
 ## Repository Contents
 | File / Folder                 | Description                                       |
 | ----------------------------- | ------------------------------------------------- |
-| `Picture`                     |Folder of the project building images             |
-| `BOM - PulseWave .xlsx`       | Bill of materials                                 |
-| `README.md`                   |Update README.md                                   |
-| `Schematic.png`               | Circuit schematic (image version)                 |
-| `RP-Diale-PulseWave.ino`      | Arduino source code for running the soil detector |
-|`PULSEWAVE PERFOMANCE FLOW`    | Perfomance workflow of the project                |
+| `Source Code`                     |Folder of the project building images             |
+| `Media`       | Bill of materials                                 |
+| `Bill Of Materials`                   |Update README.md                                   |
+| `README.md`               | Circuit schematic (image version)                 |
+| `Robot User manual`      | Arduino source code for running the soil detector |
+
 
 ---
 
