@@ -56,6 +56,11 @@ It’s also suitable for educators, DIY makers, and anyone interested in experim
 
 ---
 
+## Software Development
+### How the code works
+
+## Wiring Diagram
+
 ##  User Manual
 
 ### Introduction
