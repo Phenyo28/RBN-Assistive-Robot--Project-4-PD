@@ -78,10 +78,11 @@ App Features
 - No extra server setup is required — the ESP32 handles incoming requests directly.
 - This approach allows for a simple and lightweight mobile interface without the need for custom mobile apps or external servers.
 
-![Uploading Screenshot 2025-10-11 110515.png…]()
+<img width="1920" height="1080" alt="Screenshot 2025-10-11 110515" src="https://github.com/user-attachments/assets/e31585ec-e2ff-413e-ab17-bc1a741629c0" />
 
 ### Block Codes
-![Uploading Screenshot 2025-10-11 081456.png…]()
+<img width="1920" height="979" alt="Screenshot 2025-10-11 081456" src="https://github.com/user-attachments/assets/fdd73fb4-3df1-4863-8a49-ac32540083c5" />
+
 
 
 
