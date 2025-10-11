@@ -83,6 +83,10 @@ App Features
 ### Block Codes
 <img width="1920" height="979" alt="Screenshot 2025-10-11 081456" src="https://github.com/user-attachments/assets/fdd73fb4-3df1-4863-8a49-ac32540083c5" />
 
+### App QR code
+<img width="192" height="185" alt="Screenshot 2025-10-03 090527" src="https://github.com/user-attachments/assets/604e9efb-01ae-496d-97ff-f9005cff8c05" />
+
+
 ---
 
 ## 3D Design on OnShape
@@ -149,8 +153,6 @@ This manual provides step-by-step instructions on how to set up, operate, and ma
 9. Troubleshooting
 10. Technical Specifications
 
-### App QR code
-<img width="192" height="185" alt="Screenshot 2025-10-03 090527" src="https://github.com/user-attachments/assets/604e9efb-01ae-496d-97ff-f9005cff8c05" />
 
 ### Overview of the User Manual
     
