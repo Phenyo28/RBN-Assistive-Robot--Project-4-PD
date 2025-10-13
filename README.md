@@ -75,7 +75,7 @@ App Features
 3. Real-Time Control: Commands are sent instantly when the user presses a button.
 4. Implementation Notes
 - The MIT App Inventor blocks use the Web component to make HTTP GET requests to the ESP32.
-- No extra server setup is required — the ESP32 handles incoming requests directly.
+- No extra server setup is required, the ESP32 handles incoming requests directly.
 - This approach allows for a simple and lightweight mobile interface without the need for custom mobile apps or external servers.
 
 <img width="1920" height="1080" alt="Screenshot 2025-10-11 110515" src="https://github.com/user-attachments/assets/e31585ec-e2ff-413e-ab17-bc1a741629c0" />
