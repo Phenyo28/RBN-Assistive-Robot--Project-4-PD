@@ -4,7 +4,6 @@ By: Reabetswe Phenyo Diale
 Version: v1.0
 Date: October 2025
 
----  
 
 1. Introduction
 
@@ -17,7 +16,6 @@ Date: October 2025
 ### Safety Note:
 Operate only on flat, dry surfaces. Avoid water, dust, and heat. Check wiring before powering on, and disconnect the battery when not in use.
 
----
 
 2. Package Contents
 1 × AutoNav Robot (Fully Assembled)
@@ -27,7 +25,6 @@ Includes chassis, wheels, motors, sensors, motor driver, ESP32, and Arduino Mega
 1 × Mobile App (download link / QR code)
 1 × User Manual
 
----
 
 3. Operating Instructions
 
@@ -38,7 +35,6 @@ When an obstacle is detected, it turns in the opposite direction.
 LEDs display live status indicators.
 The mobile app can be used for manual control.
 
----
 
 4. Modes of Operation
  A) Autonomous Mode
@@ -61,7 +57,6 @@ C) Standby / Idle Mode
 Motors off, system powered.
 Red LED indicates standby.
 
---- 
 
 5. Software Overview
 The robot uses two synchronized programs — one for the ESP32 and one for the Arduino Mega 2560.
@@ -91,7 +86,6 @@ Use indoors on smooth surfaces.
 - May not detect transparent or very thin objects.
 - Accuracy decreases on uneven terrain.
 
----
 
 7. Controls
 Manual Control
@@ -106,7 +100,6 @@ LED Indicators
 - Blue – Manual Mode
 - Red – Stopped / Obstacle Detected
 
----
 
 8. Battery Management
 A) Installing
