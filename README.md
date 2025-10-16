@@ -58,6 +58,7 @@ It’s also suitable for educators, DIY makers, and anyone interested in experim
 
 ## Software Development
 ### Libraries Used
+<img width="498" height="49" alt="Screenshot 2025-10-16 160306" src="https://github.com/user-attachments/assets/8e49f44b-e21a-4621-943e-2cfef5a9be8c" />
 
 ### How the code works
 
