@@ -58,11 +58,11 @@ It’s also suitable for educators, DIY makers, and anyone interested in experim
 
 ## Software Development
 ### Libraries Used
-| Library               | Purpose                                        | Version / Notes |
-| --------------------- | ---------------------------------------------- | --------------- |
-| `WiFi.h`              | Connect ESP32 to Wi-Fi                         | Built-in        |
-| `BluetoothSerial.h`   | Enable Bluetooth communication                 | Built-in        |
-| `NewPing.h`       | Optional, for structured data                      | v6.21           |
+| Library               | Purpose                                        | 
+| --------------------- | ---------------------------------------------- |
+| `WiFi.h`              | Connect ESP32 to Wi-Fi                         | 
+| `BluetoothSerial.h`   | Enable Bluetooth communication                 | 
+| `NewPing.h`           | Optional, for structured data                      | 
 
 ### How the code works
 
