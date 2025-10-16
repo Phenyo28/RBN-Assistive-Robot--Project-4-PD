@@ -35,7 +35,7 @@ It’s also suitable for educators, DIY makers, and anyone interested in experim
 | Component Name                                    | Purpose in Project                                                               | Quantity  | 
 | ------------------------------------------------- | -------------------------------------------------------------------------------- | --------- | 
 | **ESP32 Development Board**                       | Main controller for Wi-Fi/app communication, sensor reading, motor control logic | 1         | 
-| **Arduino Mega 2560**                     | Secondary controller , BLE features                    | 1         | 
+| **Arduino Mega 2560**                     | Secondary controller                     | 1         | 
 | **L298N Motor Driver**                            | Drives 2 DC motors (direction + PWM speed control)                               | 1         |
 | **12V DC Geared Motors with Encoders**            | Propulsion with encoder feedback for odometry                                    | 2         | 
 | **Li-ion 18650 Battery Cells**                    | Main power source                                                                | 4         | 
