@@ -105,3 +105,6 @@ The Final Design with Components
 
 ### Soldering
 <img width="644" height="859" alt="image" src="https://github.com/user-attachments/assets/140c6136-4a4f-4f52-84b9-74c67f884563" /> <img width="625" height="834" alt="image" src="https://github.com/user-attachments/assets/553ced8b-1f42-4b76-96c2-fd3450a474fa" />
+
+### Laser Cutting
+z 
