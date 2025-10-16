@@ -1,23 +1,23 @@
-🤖 AutoNav Robot — User Manual
+## 🤖 AutoNav Robot — User Manual
 
 By: Reabetswe Phenyo Diale
 Version: v1.0
 Date: October 2025
 
+--- 
+
 1. Introduction
 
-The AutoNav Robot is an autonomous mobile system designed to navigate and avoid obstacles using ultrasonic sensors. It integrates two microcontrollers:
+- The AutoNav Robot is an autonomous mobile system designed to navigate and avoid obstacles using ultrasonic sensors. It integrates two microcontrollers:
+- ESP32 (Main Controller) – Manages sensors, LED indicators, and Wi-Fi communication.
+- Arduino Mega 2560 (Secondary Controller) – Executes motor commands through the L298N driver.
+- The robot can move forward, detect obstacles, stop, and automatically reroute based on sensor input. LED indicators provide real-time feedback on system status.
+- This project demonstrates the integration of mechanical design, electronics, and embedded programming into a unified platform for robotics learning, research, and prototyping.
 
-ESP32 (Main Controller) – Manages sensors, LED indicators, and Wi-Fi communication.
-
-Arduino Mega 2560 (Secondary Controller) – Executes motor commands through the L298N driver.
-
-The robot can move forward, detect obstacles, stop, and automatically reroute based on sensor input. LED indicators provide real-time feedback on system status.
-
-This project demonstrates the integration of mechanical design, electronics, and embedded programming into a unified platform for robotics learning, research, and prototyping.
-
-⚠️ Safety Note:
+### ⚠️ Safety Note:
 Operate only on flat, dry surfaces. Avoid water, dust, and heat. Check wiring before powering on, and disconnect the battery when not in use.
+
+---
 
 2. Package Contents
 
