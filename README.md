@@ -72,11 +72,11 @@ I used MIT App Inventor to create a mobile app that allows me to control my robo
 
 1. Button Controls
 Each button sends a short Bluetooth text command to the ESP32.
-- Forward → “F”
-- Backward → “B”
-- Left → “L”
-- Right → “R”
-- Stop → “S”
+- Forward - ``F``
+- Backward - ``B``
+- Left - ``L``
+- Right - ``R``
+- Stop - ``S``
 2. Bluetooth Connection
 - The user taps the “Connect” button to pair the app with the ESP32’s Bluetooth name (AutoNAV).
 - Once connected, the app can instantly send text commands.
