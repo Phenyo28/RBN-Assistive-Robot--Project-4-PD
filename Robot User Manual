@@ -199,4 +199,8 @@ Project by: Reabetswe Phenyo Diale
 - Controllers: ESP32 & Arduino Mega 2560
 - Motor Driver: L298N Dual H-Bridge
 - IDE: Arduino IDE
-- Libraries: ``WiFi.h``, ``WebServer.h``, ``NewPing.h``
+ Libraries: 
+- WiFi.h
+- WebServer.h
+- NewPing.h
+- BluetoothSerial.h
