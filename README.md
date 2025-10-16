@@ -86,8 +86,8 @@ Each button sends a short Bluetooth text command to the ESP32.
 4. Implementation Notes
 -The app uses the BluetoothClient component in MIT App Inventor.
 -Each button’s Click the block calls ``BluetoothClient.SendText("F")``
--No Wi-Fi or web server is required — communication is handled entirely over Bluetooth.
--This makes the system simpler, more portable, and usable anywhere without an internet connection.
+-No Wi-Fi or web server is required - communication is handled entirely over Bluetooth.
+-This makes the system simpler, and usable anywhere without an internet connection.
 
 <img width="1920" height="974" alt="Screenshot 2025-10-16 114623" src="https://github.com/user-attachments/assets/403bf546-7a4d-41c0-8b54-4b94f64e913f" />
 
