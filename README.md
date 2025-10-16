@@ -63,22 +63,31 @@ It’s also suitable for educators, DIY makers, and anyone interested in experim
 
 ## Wiring Diagram
 
-## App Development
-I used MIT App Inventor to create a simple web-based control interface for the robot. The app allows the user to control the robot’s movement over Wi-Fi using buttons corresponding to forward, backward, left, right, and stop commands.
+--- 
 
-App Features
-1. Button Controls: Each button sends an HTTP request to the ESP32 web server.
-- Forward → /forward
-- Backward → /backward
-- Left → /left
-- Right → /right
-- Stop → /stop
-2. Wi-Fi Connection: The app connects to the same network as the ESP32 and uses the IP address of the ESP32 to send commands.
-3. Real-Time Control: Commands are sent instantly when the user presses a button.
+## App Development
+I used MIT App Inventor to create a mobile app that allows me to control my robot’s movement via Bluetooth instead of Wi-Fi. The app communicates directly with the ESP32’s Bluetooth module, which then sends commands to the Arduino Mega for motor control.
+
+### App Features
+
+1. Button Controls
+Each button sends a short Bluetooth text command to the ESP32.
+- Forward → “F”
+- Backward → “B”
+- Left → “L”
+- Right → “R”
+- Stop → “S”
+2. Bluetooth Connection
+- The user taps the “Connect” button to pair the app with the ESP32’s Bluetooth name (AutoNAV).
+- Once connected, the app can instantly send text commands.
+3. Real-Time Control
+- Commands are transmitted instantly when buttons are pressed.
+- The ESP32 forwards them through the serial connection to the Arduino Mega, which moves the motors accordingly.
 4. Implementation Notes
-- The MIT App Inventor blocks use the Web component to make HTTP GET requests to the ESP32.
-- No extra server setup is required, the ESP32 handles incoming requests directly.
-- This approach allows for a simple and lightweight mobile interface without the need for custom mobile apps or external servers.
+-The app uses the BluetoothClient component in MIT App Inventor.
+-Each button’s Click the block calls ``BluetoothClient.SendText("F")``
+-No Wi-Fi or web server is required — communication is handled entirely over Bluetooth.
+-This makes the system simpler, more portable, and usable anywhere without an internet connection.
 
 <img width="1920" height="974" alt="Screenshot 2025-10-16 114623" src="https://github.com/user-attachments/assets/403bf546-7a4d-41c0-8b54-4b94f64e913f" />
 
