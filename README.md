@@ -34,8 +34,8 @@ It’s also suitable for educators, DIY makers, and anyone interested in experim
 
 | Component Name                                    | Purpose in Project                                                               | Quantity  | 
 | ------------------------------------------------- | -------------------------------------------------------------------------------- | --------- | 
-| **ESP32 Development Board**                       | Main brain — handles Bluetooth communication, commands from app, sensors or autonomous logic | 1         | 
-| **Arduino Mega 2560**                     | Motor controller — directly drives motors via L298N and executes movement logic                    | 1         | 
+| **ESP32 Development Board**                       | Main brain - handles Bluetooth communication, commands from app, sensors or autonomous logic | 1         | 
+| **Arduino Mega 2560**                     | Motor controller - directly drives motors via L298N and executes movement logic                    | 1         | 
 | **L298N Motor Driver**                            | Drives 2 DC motors (direction + PWM speed control)                               | 1         |
 | **12V DC Geared Motors with Encoders**            | Propulsion with encoder feedback for odometry                                    | 2         | 
 | **Li-ion 18650 Battery Cells**                    | Main power source                                                                | 4         | 
