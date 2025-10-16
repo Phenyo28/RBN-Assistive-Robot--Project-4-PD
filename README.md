@@ -26,6 +26,7 @@ It’s also suitable for educators, DIY makers, and anyone interested in experim
 | `Bill Of Materials`                   |     Bill Of Materials                             |
 | `README.md`               | README.md                |
 | `Robot User manual`      | Robot User Manual |
+| `ROBOT PERFOMANCE FLOW.docx`
 
 
 ---
