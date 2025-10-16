@@ -101,7 +101,7 @@ Each button sends a short Bluetooth text command to the ESP32.
 <img width="1092" height="554" alt="image" src="https://github.com/user-attachments/assets/22b614b5-575b-44e0-aed0-495b09121504" />
 
 ### App QR code
-<img width="192" height="185" alt="Screenshot 2025-10-03 090527" src="https://github.com/user-attachments/assets/604e9efb-01ae-496d-97ff-f9005cff8c05" />
+<img width="142" height="144" alt="Screenshot 2025-10-16 180458" src="https://github.com/user-attachments/assets/2c8b22a7-185b-40a7-937b-34b62ad0dac5" />
 
 ## Perfomance Workflow of the project
 <img width="1034" height="678" alt="image" src="https://github.com/user-attachments/assets/7861e97b-f021-4c8b-a05b-8c613bc96163" />
