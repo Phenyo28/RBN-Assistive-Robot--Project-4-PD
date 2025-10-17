@@ -128,8 +128,8 @@ There were a few moments where the motors didn’t move or spun the wrong way, b
 <img width="697" height="444" alt="Screenshot 2025-10-11 112730" src="https://github.com/user-attachments/assets/bd679cfb-743f-4edd-8e2b-133d6d57f340" />
 
 ---
-### Robot body assembly
-<img width="970" height="634" alt="image" src="https://github.com/user-attachments/assets/0035d12d-5ae6-4e1c-9507-c48e19cce4e0" />
+### Robot 
+<img width="426" height="757" alt="image" src="https://github.com/user-attachments/assets/cfa1b35a-a5fa-4dbf-b667-2f726dfa6306" />
 
 --- 
 ##  User Manual
