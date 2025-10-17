@@ -107,6 +107,8 @@ The Final Design with Components
 <img width="644" height="859" alt="image" src="https://github.com/user-attachments/assets/140c6136-4a4f-4f52-84b9-74c67f884563" /> <img width="625" height="834" alt="image" src="https://github.com/user-attachments/assets/553ced8b-1f42-4b76-96c2-fd3450a474fa" />
 
 ### Laser Cutting
+<img width="981" height="552" alt="image" src="https://github.com/user-attachments/assets/c408d0c9-cd00-4d20-adae-0259f4515165" />
+<img width="1017" height="572" alt="image" src="https://github.com/user-attachments/assets/2318444d-f76a-4db2-8660-fafd1a3a9834" />
 
 ### First successful robot movement test!!
 <img width="426" height="758" alt="image" src="https://github.com/user-attachments/assets/59666c91-1eba-4738-ab5d-379b14cbd500" /> <img width="426" height="757" alt="image" src="https://github.com/user-attachments/assets/6810cb29-2124-4b7d-bbed-c548969336bb" /> <img width="518" height="614" alt="image" src="https://github.com/user-attachments/assets/76a78da3-5760-4c0d-bcea-2254222fea30" /> <img width="416" height="785" alt="image" src="https://github.com/user-attachments/assets/5f00055b-1467-4eb2-bd29-dd3d3503e170" />
