@@ -129,7 +129,8 @@ There were a few moments where the motors didn’t move or spun the wrong way, b
 
 ---
 ### Robot 
-<img width="426" height="757" alt="image" src="https://github.com/user-attachments/assets/cfa1b35a-a5fa-4dbf-b667-2f726dfa6306" /> <img width="426" height="758" alt="image" src="https://github.com/user-attachments/assets/f471e1ce-73f8-45a9-8a4d-e525dec25cc3" />
+<img width="426" height="757" alt="image" src="https://github.com/user-attachments/assets/cfa1b35a-a5fa-4dbf-b667-2f726dfa6306" /> <img width="416" height="756" alt="image" src="https://github.com/user-attachments/assets/79601458-e724-4e8e-8b4c-bf57d9ba9e21" />
+
 
 
 --- 
