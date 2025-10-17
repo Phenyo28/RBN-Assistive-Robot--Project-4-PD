@@ -110,6 +110,9 @@ The Final Design with Components
 <img width="981" height="552" alt="image" src="https://github.com/user-attachments/assets/c408d0c9-cd00-4d20-adae-0259f4515165" />
 <img width="1017" height="572" alt="image" src="https://github.com/user-attachments/assets/2318444d-f76a-4db2-8660-fafd1a3a9834" />
 
+### Motor brackets to the base and L brackets for the T-slots
+<img width="499" height="473" alt="image" src="https://github.com/user-attachments/assets/78c44cd2-5a5c-4d24-924b-7c42931362a4" /> <img width="454" height="391" alt="image" src="https://github.com/user-attachments/assets/d3d35f8f-f015-4861-a4d5-d6cd0a3f8574" /> <img width="373" height="497" alt="image" src="https://github.com/user-attachments/assets/81833209-7ef7-485a-ade9-4ef36a0d4587" />
+
 ### First successful robot movement test!!
 <img width="426" height="758" alt="image" src="https://github.com/user-attachments/assets/59666c91-1eba-4738-ab5d-379b14cbd500" /> <img width="426" height="757" alt="image" src="https://github.com/user-attachments/assets/6810cb29-2124-4b7d-bbed-c548969336bb" />  <img width="416" height="785" alt="image" src="https://github.com/user-attachments/assets/5f00055b-1467-4eb2-bd29-dd3d3503e170" />
 
