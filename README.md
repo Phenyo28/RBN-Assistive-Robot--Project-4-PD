@@ -61,9 +61,8 @@ It’s also suitable for educators, DIY makers, and anyone interested in experim
 ### Libraries Used
 | Library               | Purpose                                        | 
 | --------------------- | ---------------------------------------------- |
-| `WiFi.h`              | Connect ESP32 to Wi-Fi                         | 
 | `BluetoothSerial.h`   | Enable Bluetooth communication                 | 
-| `NewPing.h`           | Optional, for structured data                      | 
+| `NewPing.h`           | Optional, for structured data                  | 
 
 ### How the code works
 
