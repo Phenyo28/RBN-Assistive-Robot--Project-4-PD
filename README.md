@@ -8,7 +8,6 @@ The main goal of this project is to demonstrate how autonomy and remote control 
 This assistive robot is designed for students, hobbyists, and beginners in robotics who want a hands-on learning experience with microcontrollers, sensors, and motor control.  
 It’s also suitable for educators, DIY makers, and anyone interested in experimenting with smart, remotely controlled robots.
 
-
 ## Features of the robot
 - Move forward, backward, turn.
 -	Avoid obstacles using 2 ultrasonic sensors.
