@@ -66,6 +66,7 @@ It’s also suitable for educators, DIY makers, and anyone interested in experim
 ### How the code works
 
 ## Wiring Diagram
+<img width="1033" height="869" alt="image" src="https://github.com/user-attachments/assets/909e8adf-dea3-4ca3-a866-1a265842c891" />
 
 --- 
 
